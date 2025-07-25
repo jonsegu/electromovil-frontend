@@ -1,51 +1,58 @@
-🚀 React App Starter
+🌐 React App Starter
 
-Este proyecto fue creado con Create React App.
-Permite construir aplicaciones modernas con React, listas para desarrollo y producción.
+<p align="center"> <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-18.x-blue?style=for-the-badge&logo=react" /></a> <a href="#"><img src="https://img.shields.io/badge/Node.js-16.x-green?style=for-the-badge&logo=node.js" /></a> <a href="#"><img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" /></a> </p>
+📑 Tabla de Contenido
+📖 Descripción
+
+⚡ Características
 
 📦 Instalación
-Clona este repositorio e instala las dependencias:
 
+▶️ Scripts Disponibles
+
+🛠 Tecnologías
+
+📚 Recursos
+
+📸 Vista Previa
+
+📖 Descripción
+Este proyecto fue creado con Create React App.
+Ideal para desarrollar interfaces modernas y rápidas con React.
+
+⚡ Características
+✔️ Basado en React 18
+✔️ Estructura optimizada para proyectos escalables
+✔️ Compatible con Bootstrap y CSS personalizados
+✔️ Scripts para desarrollo, pruebas y despliegue
+
+📦 Instalación
 bash
 Copiar
 Editar
+# Clona el repositorio
 git clone https://github.com/tuusuario/tu-repo.git
+
+# Accede al directorio
 cd tu-repo
+
+# Instala dependencias
 npm install
 ▶️ Scripts Disponibles
-En el directorio del proyecto, puedes ejecutar:
+Comando	Descripción
+npm start	Inicia la app en modo desarrollo
+npm test	Ejecuta los tests en modo interactivo
+npm run build	Compila la app para producción
+npm run eject	Expone la configuración para personalización avanzada
 
-npm start
-Ejecuta la app en modo desarrollo.
-Abre http://localhost:3000 para verla en tu navegador.
+🛠 Tecnologías
+⚛️ React (UI)
 
-La página se recargará automáticamente al guardar cambios.
-
-npm test
-Ejecuta el modo de pruebas interactivas.
-Más info en Running Tests.
-
-npm run build
-Genera la versión optimizada para producción en la carpeta build/.
-
-✔️ Minificación
-✔️ Hashing de archivos
-✔️ Listo para desplegar
-
-Más info: Deployment.
-
-npm run eject ⚠️
-Este comando copia toda la configuración (Webpack, Babel, ESLint, etc.) para personalizarla.
-¡No hay vuelta atrás una vez usado!
-
-🛠 Tecnologías Usadas
-⚛️ React
-
-🖌 CSS3 / Bootstrap
+🎨 CSS3 / Bootstrap
 
 📦 Node.js & npm
 
-📚 Recursos útiles
-Documentación de Create React App
-
+📚 Recursos
 Documentación de React
+
+Create React App Docs
